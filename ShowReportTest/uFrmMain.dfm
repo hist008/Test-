@@ -1,0 +1,55 @@
+object FrmMain: TFrmMain
+  Left = 399
+  Top = 305
+  Width = 490
+  Height = 205
+  Caption = #27979#35797'RepApp'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 64
+    Top = 43
+    Width = 49
+    Height = 13
+    Caption = 'CmdIndex'
+  end
+  object Label2: TLabel
+    Left = 64
+    Top = 83
+    Width = 41
+    Height = 13
+    Caption = 'RptType'
+  end
+  object edtCmdIndex: TEdit
+    Left = 119
+    Top = 40
+    Width = 121
+    Height = 21
+    TabOrder = 0
+    Text = '131'
+  end
+  object edtRptType: TEdit
+    Left = 120
+    Top = 80
+    Width = 121
+    Height = 21
+    TabOrder = 1
+    Text = '1'
+  end
+  object Button1: TButton
+    Left = 296
+    Top = 38
+    Width = 75
+    Height = 25
+    Caption = #27979#35797'REPAPP'
+    TabOrder = 2
+    OnClick = Button1Click
+  end
+end

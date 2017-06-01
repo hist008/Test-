@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017-06-01 10:27:34.821.pas,C:\Users\Administrator.ZX-20170418BATT\Documents\RAD Studio\Projects\Unit3.pas=D:\Test\CelRepTest\uFrmMain.pas</Transaction>
+    <Transaction>2017-06-01 10:27:34.821.dfm,C:\Users\Administrator.ZX-20170418BATT\Documents\RAD Studio\Projects\Unit3.dfm=D:\Test\CelRepTest\uFrmMain.dfm</Transaction>
+    <Transaction>2017-06-01 10:27:43.185.dproj,C:\Users\Administrator.ZX-20170418BATT\Documents\RAD Studio\Projects\Project3.dproj=D:\Test\CelRepTest\CelRepTest.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
